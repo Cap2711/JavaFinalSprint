@@ -1,0 +1,39 @@
+[
+    {
+        "name": "George Hart",
+        "age": "20",
+        "gender": "Male",
+        "In-school Status": "No"
+        
+    },
+
+    {
+        "name": "Steven Penton",
+        "age": "15",
+        "gender": "Male",
+        "In-school Status": "Yes"
+        
+    },
+
+    {
+        "name": "Maria Jonson",
+        "age": "27",
+        "gender": "Female",
+        "In-school Status": "No"
+        
+    },
+
+    {
+        "name": "Dean Hodder",
+        "age": "45",
+        "gender": "Male",
+        "In-school Status": "No" 
+    },
+
+    {
+        "name": "Anna Cull",
+        "age": "11",
+        "gender": "Female",
+        "In-school Status": "Yes" 
+    }
+]
